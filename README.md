@@ -2,6 +2,7 @@
 
 ![image](https://github.com/samisafk/SpeedTypingGame/assets/75417490/ae2295f2-5c20-4bc4-ba9e-1f1bc6ea5aa7)
 
+<img src="https://github.com/samisafk/SpeedTypingGame/assets/75417490/ae2295f2-5c20-4bc4-ba9e-1f1bc6ea5aa7" width="400" height="100">
 
 The speed typing game in Java is a game as well as a mock test for programmers and gamers alike to practice their typing skills to avoid typos and or small errors that could affect the code or gameplay of computer users
 
