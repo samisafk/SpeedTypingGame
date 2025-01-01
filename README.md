@@ -1,14 +1,53 @@
 # SpeedTypingGame
 
-<img src="https://github.com/samisafk/SpeedTypingGame/assets/75417490/ae2295f2-5c20-4bc4-ba9e-1f1bc6ea5aa7" width="400" height="100">
+A JavaFX-based Speed Typing Game designed to improve typing skills and provide an engaging experience. 
 
-The speed typing game in Java is a game as well as a mock test for programmers and gamers alike to practice their typing skills to avoid typos and or small errors that could affect the code or gameplay of computer users
+## Features
+- Real-time typing test.
+- Customizable difficulty levels.
+- Interactive user interface built with JavaFX.
+- Timer and score tracker to measure performance.
 
-![image](https://github.com/samisafk/SpeedTypingGame/assets/75417490/9ca6a27c-9a9a-4b24-816a-cda590aa2310)
+## Class Diagram
 
-![image](https://github.com/samisafk/SpeedTypingGame/assets/75417490/598bf717-712b-4b94-ae3f-1af3c8f7051b)
+![Class Diagram](https://github.com/samisafk/SpeedTypingGame/assets/75417490/598bf717-712b-4b94-ae3f-1af3c8f7051b)
 
-![image](https://github.com/samisafk/SpeedTypingGame/assets/75417490/968caa13-2528-4c88-9a6d-c4547a0d0ef5)
+The above diagram illustrates the architecture of the application, showing key classes and their relationships.
 
-![image](https://github.com/samisafk/SpeedTypingGame/assets/75417490/28549539-e69b-4f3f-bfa1-3bfa961d953d)
+## Front-End Output
 
+![Front-End Output](https://github.com/samisafk/SpeedTypingGame/assets/75417490/28549539-e69b-4f3f-bfa1-3bfa961d953d)
+
+The front-end design provides an intuitive and visually appealing interface for users to interact with the game.
+
+## Prerequisites
+
+Before running the project, ensure you have the following installed:
+- Java 8 or later
+- JavaFX SDK
+- IDE (e.g., IntelliJ IDEA, Eclipse) configured for JavaFX
+
+## Usage
+
+1. Launch the application.
+2. Select a difficulty level or play the default mode.
+3. Start typing the words displayed as quickly and accurately as possible.
+4. View your score and typing speed at the end of the game.
+
+## Project Structure
+
+- `src/main/java` - Contains all Java source files.
+  - `controllers` - Handles game logic and user interactions.
+  - `views` - Contains JavaFX UI components and layouts.
+  - `models` - Defines the data models used in the application.
+- `src/main/resources` - Holds assets like FXML files and stylesheets.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests for bug fixes, new features, or enhancements.
+
+
+## Acknowledgments
+
+- Special thanks to the JavaFX community for their support and tutorials.
+- Inspiration for the game came from online typing challenges.
